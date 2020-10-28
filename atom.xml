@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://suihanrui.github.io/</id>
+    <id>https://suihanrui.github.io</id>
     <title>SUI Portfolio</title>
-    <updated>2020-10-28T07:36:11.431Z</updated>
+    <updated>2020-10-28T07:38:38.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://suihanrui.github.io/"/>
+    <link rel="alternate" href="https://suihanrui.github.io"/>
     <link rel="self" href="https://suihanrui.github.io/atom.xml"/>
     <subtitle>🙋欢迎来到眭晗瑞的个人作品集网站</subtitle>
     <logo>https://suihanrui.github.io/images/avatar.png</logo>
